@@ -41,7 +41,7 @@
 Работу с данными и оформление отчетов с помощью средств Python.
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/Project_1_HeadHunter_df.ipynb)  
-[Графики plotly](https://github.com/Sidorov-Andrey/DE/tree/main/Project_1/plotly)  
+[- Ноутбук с выполненными заданиями и выводами](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/Project_1_HeadHunter_df.ipynb)  
+[- Графики plotly](https://github.com/Sidorov-Andrey/DE/tree/main/Project_1/plotly)  
 
 :arrow_up:[к оглавлению](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md)#Оглавление)
