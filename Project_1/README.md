@@ -2,12 +2,17 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Результаты)    
+[2. Какой кейс решаем?](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Какой-кейс-решаем)
+[3. Исходные данные](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Исходные-данные)
+[4. Результаты](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Результаты)    
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
+
+### Исходные данные
+[- Выгрузка базы данных резюме с сайта поиска вакансий hh.ru](https://dl.dropboxusercontent.com/s/99sdysv2w6xxw95/dst-3.0_16_1_hh_database.csv?dl=0)
+[- Курсы валют](https://docs.google.com/spreadsheets/d/17hv8aEByuHrLM-cea2wT9gsmk6d2Rq1weysNzBBKewc/edit#gid=1286840416)
 
 ### Какой кейс решаем?    
 1. Базовый анализ структуры данных
@@ -37,5 +42,6 @@
 
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/Project_1_HeadHunter_df.ipynb)
+[Графики plotly](https://github.com/Sidorov-Andrey/DE/tree/main/Project_1/plotly)
 
 :arrow_up:[к оглавлению](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md)#Оглавление)
