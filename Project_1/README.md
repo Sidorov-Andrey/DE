@@ -1,16 +1,13 @@
 # Homework 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Результаты)    
+[1. Описание проекта](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Результаты)    
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
-
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
-
 
 ### Какой кейс решаем?    
 1. Базовый анализ структуры данных
@@ -20,7 +17,7 @@
 
 **Условия соревнования:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md#Требования-к-оформлению-ноутбука).
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
@@ -36,9 +33,9 @@
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
 **Что практикуем**     
-работу с данными и оформление отчетов с помощью средств python 
+Работу с данными и оформление отчетов с помощью средств Python.
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/Project_1_HeadHunter_df.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Sidorov-Andrey/DE/blob/main/Project_1/README.md)#Оглавление)
